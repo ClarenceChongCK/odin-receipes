@@ -1,2 +1,2 @@
-# odin-receipes
-Odin receipe test
+# odin-recipes
+Odin recipes test
